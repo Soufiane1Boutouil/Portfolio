@@ -1,0 +1,35 @@
+/* Reset default styles */
+body, h1, h2, p {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1em;
+}
+
+h1 {
+  margin-bottom: 0.2em;
+}
+
+.section {
+  margin: 2em 0;
+  padding: 1em;
+  border: 1px solid #ddd;
+}
+
+h2 {
+  color: #333;
+  font-size: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+/* Add more styling as needed */

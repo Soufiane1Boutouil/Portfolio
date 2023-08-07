@@ -1,63 +1,53 @@
-# Your Name - Curriculum Vitae
+# SOUFIANE BOUTOUIL
+**Data Analyst & Digital Marketer**  
 
-Welcome to my professional curriculum vitae, showcasing my expertise as a Data Analyst and Digital Marketer. This CV is presented using GitHub Pages for easy access and navigation.
+Email:  | Phone: +
 
-![Profile Image](assets/profile_image.jpg)
+## **PROFILE**
+Motivated and results-driven Data Analyst and Digital Marketer with a successful track record in delivering data-driven insights and executing effective digital marketing strategies. Proficient in utilizing data analysis tools and digital marketing platforms to optimize performance and drive business growth. Seeking opportunities to leverage my skills and expertise to contribute to the success of a dynamic organization.
 
-## Table of Contents
+## **EDUCATION**
+**Google Data Analytics Professional Certificate**  
+Google Career Certificates, Stockholm | March 2021 - December 2021  
+- Comprehensive coursework in data analysis and visualization, utilizing Python (Pandas, Jupyter), Tableau, and Google Analytics.
+- Proficient in SQL, MySQL, and basic machine learning concepts.
 
-- [Professional Profile](#professional-profile)
-- [Education](#education)
-- [Employment History](#employment-history)
-- [Skills](#skills)
-- [Youth Exchange Participation](#youth-exchange-participation)
-- [Hosting](#hosting)
+**Digital Marketing**  
+Google Digital Garage, Stockholm | June 2021 - December 2021  
+- Advanced training in Social Media Management, SEO, Email Marketing Automation, and Graphic Design.
+- Hands-on experience with tools like Adobe Photoshop and Canva.
 
-## Professional Profile
+**High School Diploma - Allmän Kurs**  
+Kista Folkhögskola, Stockholm | January 2022 - December 2022  
+- Strengthened foundational knowledge and skills in various subjects.
 
-I am a dynamic and results-oriented Data Analyst and Digital Marketer with a proven track record of translating data insights into impactful digital strategies. Proficient in utilizing advanced analytics tools and cutting-edge digital platforms to drive business growth. Eager to contribute my expertise to a dynamic organization's success.
+## **SKILLS**
+- Data Analysis: Python, Pandas, SQL, Tableau
+- Digital Marketing: Social Media Management, SEO, Email Marketing Automation
+- Graphic Design: Adobe Photoshop, Canva
+- Language: Proficient in Swedish and English
 
-## Education
+## **EMPLOYMENT HISTORY**
+**Data Analyst & Digital Marketer Freelancer**  
+Stockholm | December 2021 - Present  
+- Collaborated with diverse clients to analyze and interpret data, providing actionable insights for informed decision-making.
+- Conducted data cleaning, transformation, and visualization using Python, SQL, Pandas, and Tableau.
+- Utilized Google Analytics and marketing analytics tools to monitor website performance, track user behavior, and identify optimization opportunities.
+- Developed and executed digital marketing strategies, including SEO optimization, social media campaigns, email marketing, and paid advertising.
+- Conducted keyword research and competitor analysis to improve online visibility and organic search rankings.
+- Employed A/B testing and data analysis to refine marketing campaigns and enhance conversion rates.
+- Tailored data analysis and marketing strategies to meet specific client needs, cultivating strong client relationships.
 
-- **Google Analytics Certificate** <img align="left" width="20" height="20" src="assets/icons/google-analytics.svg">
-  Google Career Certificates, Stockholm | March 2021 - December 2021
-  - Completed comprehensive courses covering data analysis techniques and digital marketing essentials.
+## **PROJECTS**
+**Project: Customer Segmentation and Profiling for F-commerce Platform**  
+- Conducted customer segmentation based on purchasing behavior, demographics, and geographic location for personalized marketing.
+- Analyzed customer lifetime value (CLV) to identify high-value customers and implement retention strategies. Tools used: Python (Pandas, Scikit-learn), Tableau.
 
-- **Digital Marketing** <img align="left" width="20" height="20" src="assets/icons/digital-marketing.svg">
-  Google Digital Garage, Stockholm | June 2021 - December 2021
-  - Advanced training in Social Media Management, SEO, Email Marketing Automation, and Graphic Design.
+**Project: Social Media Campaign Performance Analysis**  
+- Evaluated the effectiveness of social media marketing efforts by analyzing engagement metrics.
+- Provided recommendations to optimize social media content and increase brand reach and engagement. Tools used: Google Analytics, social media analytics platforms.
 
-- **High School Diploma (Allmän kurs)** <img align="left" width="20" height="20" src="assets/icons/education.svg">
-  Kista Folkhögskola, January 2022 - December 2022
-
-## Employment History
-
-**Data Analyst Freelancer** <img align="left" width="20" height="20" src="assets/icons/data-analyst.svg">
-Stockholm | February 2022 - Present
-- Collaborated with diverse clients, extracting actionable insights from data.
-- Orchestrated impactful digital marketing strategies, optimizing user experiences and identifying growth opportunities.
-
-**Digital Marketer** <img align="left" width="20" height="20" src="assets/icons/digital-marketer.svg">
-Remote | December 2021 - Present
-- Developed compelling organic content strategies, engaging target audiences.
-- Led and optimized social media advertising campaigns for maximum impact.
-
-## Skills
-
-- Advanced Data Analysis <img align="left" width="20" height="20" src="assets/icons/data-analysis.svg">
-- Strategic Search Engine Optimization (SEO) <img align="left" width="20" height="20" src="assets/icons/seo.svg">
-- Creative Social Media Optimization (SMO) <img align="left" width="20" height="20" src="assets/icons/smo.svg">
-- Precision CNC Operations <img align="left" width="20" height="20" src="assets/icons/cnc.svg">
-- Impactful Digital Strategy <img align="left" width="20" height="20" src="assets/icons/digital-strategy.svg">
-- Visionary Leadership <img align="left" width="20" height="20" src="assets/icons/leadership.svg">
-
-## Youth Exchange Participation
-
-**Business as Unusual**, Hästveda, Sweden | 08/07/2023 - 17/07/2023
-- Engaged in workshops, intercultural exchange, group projects, skills training, integration discussions, presentations, cultural events, and self-reflection.
-- Developed entrepreneurship, media literacy, intercultural awareness, and leadership skills.
-- Acquired competencies in entrepreneurship, intercultural advocacy, and positive social change.
-
-## Hosting
-
-This CV is hosted on GitHub Pages. You can access it [here](https://soufiane1boutouil.github.io/Portfolio).
+## **CONTACT**
+Addres:  
+Email:   
+Phone:

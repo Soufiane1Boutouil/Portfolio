@@ -1,27 +1,82 @@
-/* Reset default browser styling */
-body, h1, h2, h3, p {
-    margin: 0;
-    padding: 0;
+/* This is the CSS code for your portfolio website */
+
+/* Global Styles */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Your-Selected-Font", sans-serif;
 }
 
-/* Apply styles to different sections */
+/* Header Styles */
 .header {
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    padding: 1rem;
+  background-color: blue;
+  color: white;
+  padding: 20px;
+  text-align: center;
 }
 
-.profile {
-    background-color: #f5f5f5;
-    padding: 1rem;
-    border: 1px solid #ddd;
-    margin: 1rem 0;
+/* Navigation Menu Styles */
+.nav-menu {
+  display: none;
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  position: absolute;
+  top: 60px;
+  right: 20px;
+  border-radius: 5px;
+  box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-/* Customize other sections as needed */
+/* Button Styles */
+.button {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px;
+}
 
-/* Media queries for responsiveness */
+/* Icon Styles */
+.icon {
+  margin-right: 5px;
+}
+
+/* Section Styles */
+.section {
+  padding: 20px;
+}
+
+/* Blue Background Section */
+.blue-background {
+  background-color: lightblue;
+}
+
+/* White Background Section */
+.white-background {
+  background-color: white;
+}
+
+/* Text Styles */
+.text {
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+/* Footer Styles */
+.footer {
+  background-color: blue;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Media Query for Mobile */
 @media (max-width: 768px) {
-    /* Adjust styling for smaller screens */
+  .nav-menu {
+    top: 50px;
+    right: 10px;
+  }
 }

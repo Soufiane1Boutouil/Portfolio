@@ -1,30 +1,3 @@
-# Site settings
-title: Soufiane Boutouil - CV
-description: Passionate Data Analyst and Digital Marketer
 theme: jekyll-theme-cayman
-
-# Navigation links
-navbar_links:
-  - text: Home
-    url: /
-  - text: Profile
-    url: /#professional-profile
-  - text: Education
-    url: /#education
-  - text: Employment
-    url: /#employment-history
-  - text: Skills
-    url: /#skills
-
-# Sass settings for styling
-sass:
-  style: compressed
-
-# Exclude files from processing
-exclude:
-  - "*.min.css"
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE
-  - README.md
-
+title: Soufiane Boutouil - CV
+description: Data Analyst and Digital Marketer

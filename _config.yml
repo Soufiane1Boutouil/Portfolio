@@ -1,3 +1,7 @@
-theme: jekyll-theme-cayman
-title: Soufiane Boutouil - CV
-description: Data Analyst and Digital Marketer
+title: Soufiane's Portfolio
+description: Personal portfolio showcasing skills and projects
+baseurl: "/Portfolio"
+url: "https://soufiane1boutouil.github.io"
+theme: jekyll-theme-minimal
+scripts:
+  - js/script.js

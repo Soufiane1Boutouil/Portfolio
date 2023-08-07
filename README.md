@@ -1,7 +1,6 @@
 # SOUFIANE BOUTOUIL
 **Data Analyst & Digital Marketer**  
-
-Email:  | Phone: +
+Email: your@email.com | Phone: +1234567890
 
 ## **PROFILE**
 Motivated and results-driven Data Analyst and Digital Marketer with a successful track record in delivering data-driven insights and executing effective digital marketing strategies. Proficient in utilizing data analysis tools and digital marketing platforms to optimize performance and drive business growth. Seeking opportunities to leverage my skills and expertise to contribute to the success of a dynamic organization.
@@ -48,6 +47,6 @@ Stockholm | December 2021 - Present
 - Provided recommendations to optimize social media content and increase brand reach and engagement. Tools used: Google Analytics, social media analytics platforms.
 
 ## **CONTACT**
-Addres:  
-Email:   
-Phone:
+Address: Your Address  
+Email: your@email.com  
+Phone: +1234567890

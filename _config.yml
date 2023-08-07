@@ -1,7 +1,63 @@
-title: Soufiane's Portfolio
-description: Personal portfolio showcasing skills and projects
-baseurl: "/Portfolio"
-url: "https://soufiane1boutouil.github.io"
-theme: jekyll-theme-minimal
-scripts:
-  - js/script.js
+name: Soufiane Boutouil
+description: Data Analyst & Digital Marketer
+email: soufe1000touil@gmail.com
+phone: +467000000
+languages:
+  - Swedish
+  - English
+
+education:
+  - title: Google Data Analytics Professional Certificate
+    school: Google Career Certificates, Stockholm
+    date: March 2021 - December 2021
+    details: |
+      - Comprehensive coursework in data analysis and visualization using Python (Pandas, Jupyter), Tableau, and Google Analytics.
+      - Proficient in SQL, MySQL, and basic machine learning concepts.
+
+  - title: Digital Marketing
+    school: Google Digital Garage, Stockholm
+    date: June 2021 - December 2021
+    details: |
+      - Advanced training in Social Media Management, SEO, Email Marketing Automation, and Graphic Design.
+      - Hands-on experience with tools like Adobe Photoshop and Canva.
+
+  - title: High School Diploma - Allmän Kurs
+    school: Kista Folkhögskola, Stockholm
+    date: January 2022 - December 2022
+    details: |
+      - Strengthened foundational knowledge and skills in various subjects.
+
+skills:
+  - Data Analysis: Python, Pandas, SQL, Tableau
+  - Digital Marketing: Social Media Management, SEO, Email Marketing Automation
+  - Graphic Design: Adobe Photoshop, Canva
+  - Language: Proficient in Swedish and English
+
+employment:
+  - title: Data Analyst & Digital Marketer Freelancer
+    location: Stockholm
+    date: December 2021 - Present
+    details: |
+      - Collaborated with diverse clients to analyze and interpret data, providing actionable insights for informed decision-making.
+      - Conducted data cleaning, transformation, and visualization using Python, SQL, Pandas, and Tableau.
+      - Utilized Google Analytics and marketing analytics tools to monitor website performance, track user behavior, and identify optimization opportunities.
+      - Developed and executed digital marketing strategies, including SEO optimization, social media campaigns, email marketing, and paid advertising.
+      - Conducted keyword research and competitor analysis to improve online visibility and organic search rankings.
+      - Employed A/B testing and data analysis to refine marketing campaigns and enhance conversion rates.
+      - Tailored data analysis and marketing strategies to meet specific client needs, cultivating strong client relationships.
+
+projects:
+  - title: Project: Customer Segmentation and Profiling for F-commerce Platform
+    details: |
+      - Conducted customer segmentation based on purchasing behavior, demographics, and geographic location for personalized marketing.
+      - Analyzed customer lifetime value (CLV) to identify high-value customers and implement retention strategies. Tools used: Python (Pandas, Scikit-learn), Tableau.
+
+  - title: Project: Social Media Campaign Performance Analysis
+    details: |
+      - Evaluated the effectiveness of social media marketing efforts by analyzing engagement metrics.
+      - Provided recommendations to optimize social media content and increase brand reach and engagement. Tools used: Google Analytics, social media analytics platforms.
+
+contact:
+  address: Your Address
+ email: soufe1000touil@gmail.com
+phone: +467000000

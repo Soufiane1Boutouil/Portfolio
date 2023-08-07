@@ -1,45 +1,34 @@
-// Function to toggle a dark mode theme
-function toggleDarkMode() {
+// This is the JavaScript code for your portfolio website
+
+// Function to toggle background color between blue and white
+let isBlueBackground = true;
+const toggleBackgroundColor = () => {
   const body = document.body;
-  body.classList.toggle("dark-mode");
-}
-
-// Attach the function to a button click event
-const darkModeButton = document.getElementById("dark-mode-button");
-darkModeButton.addEventListener("click", toggleDarkMode);
-
-// Function to display a project modal
-function openProjectModal(projectId) {
-  const modal = document.getElementById("project-modal");
-  const projectTitle = document.getElementById("project-title");
-  const projectDescription = document.getElementById("project-description");
-
-  // Customize the content based on the project
-  if (projectId === "project-1") {
-    projectTitle.textContent = "Customer Segmentation Project";
-    projectDescription.textContent = "Conducted customer segmentation based on purchasing behavior, demographics, and geographic location...";
-  } else if (projectId === "project-2") {
-    projectTitle.textContent = "Social Media Campaign Analysis";
-    projectDescription.textContent = "Evaluated the effectiveness of social media marketing efforts by analyzing engagement...";
+  if (isBlueBackground) {
+    body.style.backgroundColor = "white";
+  } else {
+    body.style.backgroundColor = "lightblue";
   }
+  isBlueBackground = !isBlueBackground;
+};
 
-  // Display the modal
-  modal.style.display = "block";
-}
+// Function to toggle navigation menu visibility
+let isNavVisible = false;
+const toggleNavVisibility = () => {
+  const navMenu = document.querySelector(".nav-menu");
+  if (isNavVisible) {
+    navMenu.style.display = "none";
+  } else {
+    navMenu.style.display = "block";
+  }
+  isNavVisible = !isNavVisible;
+};
 
-// Attach the function to project buttons
-const project1Button = document.getElementById("project-1-button");
-project1Button.addEventListener("click", () => openProjectModal("project-1"));
+// Event listeners for button clicks
+document.addEventListener("DOMContentLoaded", function() {
+  const changeColorButton = document.getElementById("change-color-button");
+  changeColorButton.addEventListener("click", toggleBackgroundColor);
 
-const project2Button = document.getElementById("project-2-button");
-project2Button.addEventListener("click", () => openProjectModal("project-2"));
-
-// Function to close the project modal
-function closeProjectModal() {
-  const modal = document.getElementById("project-modal");
-  modal.style.display = "none";
-}
-
-// Attach the function to the close button
-const closeModalButton = document.getElementById("close-modal-button");
-closeModalButton.addEventListener("click", closeProjectModal);
+  const toggleNavButton = document.getElementById("toggle-nav-button");
+  toggleNavButton.addEventListener("click", toggleNavVisibility);
+});
